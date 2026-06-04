@@ -62,3 +62,5 @@ NumPy – Data generation
 Pandas – Data manipulation
 Matplotlib – Basic visualization
 Seaborn – Advanced visualization
+
+<img width="825" height="576" alt="image" src="https://github.com/user-attachments/assets/3fa8e953-ce2c-4fd6-b44f-24be4ea92c26" />
