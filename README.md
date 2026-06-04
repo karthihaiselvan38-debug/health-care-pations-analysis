@@ -65,3 +65,4 @@ Seaborn – Advanced visualization
 
 <img width="825" height="576" alt="image" src="https://github.com/user-attachments/assets/3fa8e953-ce2c-4fd6-b44f-24be4ea92c26" />
 <img width="860" height="631" alt="image" src="https://github.com/user-attachments/assets/0bc4794d-13c4-46ff-9bda-9effc7ffc3a1" />
+<img width="867" height="689" alt="image" src="https://github.com/user-attachments/assets/08ed0f64-3a7e-41b8-a5ac-799625620a55" />
